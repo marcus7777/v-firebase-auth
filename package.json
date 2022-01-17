@@ -3,8 +3,8 @@
     "firebase": "^7.0.0",
     "firebaseui": "^4.2.0"
   },
-  "name": "vue-firebaseui-auth",
-  "version": "1.0.0",
+  "name": "v-firebase-auth",
+  "version": "1.0.1",
   "description": "A vue wrapper for Firebase UI",
   "main": "fireLogin.vue",
   "repository": "git@github.com:marcus7777/vue-firebaseui-auth.git",
